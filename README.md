@@ -1,1 +1,1 @@
-# This is a simple fun quiz game website created using HTML CSS and JavaScriptl.
+# This is a simple fun quiz game website created using HTML CSS and JavaScript.
