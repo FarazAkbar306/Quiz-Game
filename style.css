@@ -46,6 +46,12 @@ body {
   font-size: 2.5rem;
 }
 
+#start-screen p {
+  color: #666; 
+  margin-bottom: 30px; 
+  font-size: 1.1rem; 
+}
+
 .quiz-header {
   margin-bottom: 2rem;
 }
@@ -142,7 +148,7 @@ body {
   margin-bottom: 1rem;
 }
 
-#result-message {
+#result-message{
   font-size: 1.5rem; 
   font-weight: 600; 
   color: #e86a33;
@@ -166,11 +172,11 @@ button:hover {
 
 /* RESPONSIVE DESIGN */
 
-@media (max-width: 500px) {
-  /* when we hit 500px and below implement the style below  */
+@media (max-width:500px) {
+  /* when we hit 500px and below implement the styles below  */
+  
   .screen {
     padding: 1rem;
-
   }
 
   #start-screen {
